@@ -1,0 +1,5 @@
+package goalgo
+
+func main() {
+
+}
